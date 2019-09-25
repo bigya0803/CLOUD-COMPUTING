@@ -32,7 +32,7 @@
 
 验证是否存在ssh keys
 
-![](../img1/验证是否存在ssh keys.png)
+![](../img1/验证是否存在sshkeys.png)
 
 如果以下四个都没有
 
@@ -59,7 +59,7 @@
 
 在continue的时候，选择yes，即可显示认证成功
 
-![](../img1/测试ssh key是否配置成功.png)
+![](../img1/测试sshkey是否配置成功.png)
 
 ##### 2.2.3 配置GitHub的用户名和邮箱
 
